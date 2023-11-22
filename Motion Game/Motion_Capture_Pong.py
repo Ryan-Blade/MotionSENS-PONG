@@ -146,7 +146,7 @@ pygame.mixer.music.stop()
 
 #Exporting player_profile into a My_Sql database:
 
-p_name = []
+"""p_name = []
 p_name.append(lst[0])
 tuple(p_name)
 print(p_name)
@@ -169,4 +169,4 @@ mycursor.execute("SHOW DATABASES")
 
 sql = "INSERT INTO Player_Profile (name, scores) VALUES (%s, %s)"
 val = (p_name,final_score)
-mycursor.execute(sql, val)
+mycursor.execute(sql, val)"""
