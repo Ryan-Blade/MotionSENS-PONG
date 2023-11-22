@@ -1,5 +1,5 @@
 """NOTE PLS USE THE FOLLOWING COMMANDS FOR SETTING UP THE REQUIRED MODULES USED IN THIS PROGRAM
-1) OPEN CMD -> TYPE {python --version} -> {pip install opencv} after the installation is complete again type {pip install cvzone}, DONT TYPE {} ALONG WITH THE COMMANDS
+1) OPEN CMD -> TYPE {pip install opencv} after the installation is complete again type {pip install cvzone}, DONT TYPE {} ALONG WITH THE COMMANDS
 2) CAMERA APP SHOULDN'T BE OPENED BEFOREHAND RUNNING THIS PROGRAM AS IT MAY CAUSE RUN_TIME_ERROR"""
 
 
