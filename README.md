@@ -7,4 +7,4 @@ Instructions on running the project file :
 2) Many libraries have been used for making this project, pls ensure that u pre-install them via the pip install <package_name> command in CMD or its equivalent commands in Linux.
 3) U can easily change the ingame sprites,sound just by downloading the respected item and providing its path the .py script's required area.
 4) ENJOY 👍
-![](84d79f587caeee69caf306386ec3527d_w200.gif)
+                                                    ![](84d79f587caeee69caf306386ec3527d_w200.gif)
