@@ -1,0 +1,6 @@
+cvzone==1.6.1
+mysql_connector_repackaged==0.3.1
+numpy==1.26.2
+opencv_contrib_python==4.8.1.78
+opencv_python==4.8.1.78
+pygame==2.5.2
