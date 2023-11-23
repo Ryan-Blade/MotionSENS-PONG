@@ -9,4 +9,4 @@ Instructions on running the project file :
 4) ENJOY 👍
 
 
-                                                           ![](84d79f587caeee69caf306386ec3527d_w200.gif)
+   ![](84d79f587caeee69caf306386ec3527d_w200.gif)
