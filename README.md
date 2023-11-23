@@ -1,6 +1,6 @@
 # MotionSENS-PONG
 The Classic Pong Game Now With New Redefined motion Controls !!
-This is my 1st project that was made for my class 12th Practicals, so I am not a pro, I will gladly adhere for any constructive critisism !
+This is my 1st project that was made for my class 12th Practicals, so I am not a pro, I will gladly adhere to any constructive critisism !
 
 Instructions on running the project file :
 1) I have included comments explaining most of the stuff inside my .py script
