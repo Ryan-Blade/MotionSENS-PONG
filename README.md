@@ -6,13 +6,13 @@ Introduction:
 
 To run the project:
 
--Review the comprehensive comments within the Python script for insights into the code.
-
--Utilize the "requirements.txt" file via the CMD with the command: **"pip install -r requirements.txt"**(without quotes) for auto-installing required modules to run this      project.
+1) Utilize the "requirements.txt" file via the CMD with the command: **"pip install -r requirements.txt"**(without quotes) for auto-installing required modules to run this      project.
 
 **Note: Before executing the command, ensure that your CMD's active directory is set to the project directory containing the .txt file, achieved by using the 'cd'              command in CMD**
 
--You can even customize in-game elements such as sprites and sounds by directing the respective items to the designated sections in the Python script.
+2) You can even customize in-game elements such as sprites and sounds by directing the respective items to the designated sections in the Python script.
+
+3) Review the comprehensive comments within the Python script for insights into the code.
 
 **Experience the game and have fun! Your feedback is appreciated.** 👍
 
