@@ -1,15 +1,16 @@
 """NOTE PLS USE THE FOLLOWING COMMANDS FOR SETTING UP THE REQUIRED MODULES USED IN THIS PROGRAM
-1) OPEN CMD -> TYPE {python --version} -> {pip install opencv} after the installation is complete again type {pip install cvzone}, DONT TYPE {} ALONG WITH THE COMMANDS
-2) CAMERA APP SHOULDN'T BE OPENED BEFOREHAND RUNNING THIS PROGRAM AS IT MAY CAUSE RUN_TIME_ERROR"""
+1) OPEN CMD -> TYPE {pip install -r requirements.txt} after changing your current directory
+ to the directory where the PongGame project file is located. The above script ensures auto-installation of all the required packages used in this code.
+2) NOTE : CAMERA APP SHOULDN'T BE OPENED BEFOREHAND RUNNING THIS PROGRAM AS IT MAY CAUSE RUN_TIME_ERROR"""
 
 
 
-# Respected Invigilator here I shall explain you the working of the project pary by part
+# I shall explain to you the working of the project pary by part:
 # I have used multiple modules as the project had a varietry of requirements which could only be satisfied via using external libraries and modules
-# cv2 is a module which is used for image recgonition in pythn it comes with a variety of readymade tools which makes it hassleless
-# for us to create a program utilizing Image recgonition without the use of any neural network or deep learning.
-# cvzone is just like cv2 only differnce it that it helps in the processing and translation of data so that python can serve the required
-# purpose. Numpy is used for error free mathematical coordination between different numerical vales used in the program like score adn coordinates 
+# cv2 is a module which is used for image display in python it comes with a variety of readymade tools which makes it hassleless
+# for us to create a program utilizing Images needed for different program functions, without the use of any neural network or deep learning.
+# cvzone helps and makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
+# Numpy is used for extensive mathematical coordination between different numerical vales used in the program like score and coordinates
 # of the in game figures such as the slider of pong game and the position of ball which varies with time.
 
 # Contols : Move hands to move sliders, press q to quit and r to replay when game is over
