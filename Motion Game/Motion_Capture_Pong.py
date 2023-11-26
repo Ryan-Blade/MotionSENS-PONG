@@ -39,7 +39,7 @@ imgBat1 = cv2.imread(r"C:\Users\sulph\Desktop\OPENCV\bat1.png", cv2.IMREAD_UNCHA
 imgBat2 = cv2.imread(r"C:\Users\sulph\Desktop\OPENCV\bat2.png", cv2.IMREAD_UNCHANGED)
 
 # Hand Detector
-detector = HandDetector(detectionCon=0.5, maxHands=2) # comes with built-in library
+detector = HandDetector(detectionCon=0.3, maxHands=2) # comes with built-in library
 
 # Variables
 ballPos = [100, 100]
