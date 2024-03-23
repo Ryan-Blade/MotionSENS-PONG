@@ -2,7 +2,7 @@
 
 Introduction:
 
-*MotionSENS-PONG* brings a refreshing twist to the classic Pong game by introducing innovative motion controls. This project marks my initial venture into practical application, created during my 12th-grade coursework. While I acknowledge my beginner status, I welcome any constructive criticism😁
+*MotionSENS-PONG* brings a refreshing twist to the classic Pong game by introducing innovative motion controls. This project marks my initial venture into practical application, created during my 12th-grade coursework. While I acknowledge my beginner status, I welcome all constructive criticism😁
 
 To run the project:
 
